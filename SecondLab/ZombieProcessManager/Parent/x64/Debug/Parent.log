@@ -1,0 +1,10 @@
+﻿  Parent.cpp
+D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\Parent\Parent.cpp(13,26): warning C4129: P: неизвестная escape-последовательность
+D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\Parent\Parent.cpp(13,26): warning C4129: B: неизвестная escape-последовательность
+D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\Parent\Parent.cpp(13,26): warning C4129: F: неизвестная escape-последовательность
+D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\Parent\Parent.cpp(13,26): warning C4129: O: неизвестная escape-последовательность
+D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\Parent\Parent.cpp(13,26): warning C4129: S: неизвестная escape-последовательность
+D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\Parent\Parent.cpp(13,26): warning C4129: Z: неизвестная escape-последовательность
+D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\Parent\Parent.cpp(13,26): warning C4129: D: неизвестная escape-последовательность
+D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\Parent\Parent.cpp(13,26): warning C4129: C: неизвестная escape-последовательность
+  Parent.vcxproj -> D:\Programming\BSUIR3\FirstHalf\OSiSP\SecondLab\ZombieProcessManager\x64\Debug\Parent.exe
